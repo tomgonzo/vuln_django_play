@@ -7,7 +7,7 @@ Polls is a simple Django app to conduct Web-based polls. For each
 question, visitors can choose between a fixed number of answers.
 
 Based on the Django Polls tutorial, contains a few XSS/SQLi issues and
-turns off the built in protections to prevent that.
+turns off the built in protections to prevent that. Yay!
 
 Quick start - this section is old
 -----------
